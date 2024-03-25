@@ -1,2 +1,4 @@
 #include<stdio.h>
-ds
+int main(){
+    printf("hello");
+}
